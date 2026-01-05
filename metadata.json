@@ -1,0 +1,7 @@
+{
+  "name": "Salario - AI Payroll System",
+  "description": "A comprehensive payroll management system with real-time financial analytics, employee tracking, automated PDF payslip generation, and an AI-powered support assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
